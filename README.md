@@ -29,6 +29,13 @@
 
 ## 📊 GitHub Stats  
 ![](https://github-profile-trophy.vercel.app/?username=Jiyakumari-ux&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## 📊 GitHub Stats & Achievements
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Jiyakumari-ux&show_icons=true&theme=radical)
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=Jiyakumari-ux&theme=radical)
+
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Jiyakumari-ux&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
